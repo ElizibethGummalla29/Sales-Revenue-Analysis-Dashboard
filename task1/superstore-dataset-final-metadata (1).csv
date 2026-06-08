@@ -1,0 +1,4 @@
+contentUrl,contentSize,md5,encodingFormat,@id,@type,name,description,containedIn/@id
+https://www.kaggle.com/api/v1/datasets/download/vivek468/superstore-dataset-final?datasetVersionNumber=1,549.654 KB,TSdZxrOH1xGei7ZeVQ7uZw==,application/zip,archive.zip,cr:FileObject,archive.zip,Archive containing all the contents of the Superstore Dataset dataset,
+Sample - Superstore.csv,,,application/vnd.ms-excel,Sample+-+Superstore.csv_fileobject,cr:FileObject,Sample - Superstore.csv,"Dataset containing Information related to Sales, Profits and other interesting facts of a Superstore giant. Can you tell about the region. Their is no north region available in this column.
+",archive.zip
